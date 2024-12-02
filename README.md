@@ -3,6 +3,7 @@
 Download the two libraries needed to run the code for this project.
 
 Temperature Sensor (DHT11): https://github.com/dhrubasaha08/DHT11
+
 LCD Screen (Liquid Crystal I2C): https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library
 
 Locate this project's 'Libraries' folder in your local files and insert the files you downloaded.
