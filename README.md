@@ -14,7 +14,7 @@ Connect your computer with the Arduino, verify the code, and upload it.
 
 
 
-# How to Use
+# Smart Fan System
 
 The Smart Fan System works autonomously for the most part. On start-up, the preferred temperature is set to 76 degrees Fahrenheit. 
 
